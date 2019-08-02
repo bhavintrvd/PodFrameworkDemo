@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 	s.name         = "PodFrameworkDemo"
-s.version      = "5.1.0"
+s.version      = "5.3.0"
 s.authors = "Bhavin Trivedi"
 s.summary      = "CCAlert pod."
 s.description  = "This is a CCAlert pod."
