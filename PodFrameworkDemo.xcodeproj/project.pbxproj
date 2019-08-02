@@ -8,28 +8,28 @@
 
 /* Begin PBXBuildFile section */
 		30DEB6EF22F47A5D0000DB9F /* PodFrameworkDemo.h in Headers */ = {isa = PBXBuildFile; fileRef = 30DEB6ED22F47A5D0000DB9F /* PodFrameworkDemo.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		30DEB6FD22F47A9D0000DB9F /* AlertMessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB6F522F47A9C0000DB9F /* AlertMessageView.swift */; };
-		30DEB6FE22F47A9D0000DB9F /* AlertMessageNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB6F622F47A9D0000DB9F /* AlertMessageNavigationController.swift */; };
-		30DEB6FF22F47A9D0000DB9F /* AlertMessageActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB6F722F47A9D0000DB9F /* AlertMessageActions.swift */; };
-		30DEB70022F47A9D0000DB9F /* AlertMessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB6F822F47A9D0000DB9F /* AlertMessageViewController.swift */; };
-		30DEB70122F47A9D0000DB9F /* AlertActionCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB6F922F47A9D0000DB9F /* AlertActionCollectionCell.swift */; };
-		30DEB70222F47A9D0000DB9F /* AlertActionCollectionViewFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB6FA22F47A9D0000DB9F /* AlertActionCollectionViewFlowLayout.swift */; };
-		30DEB70322F47A9D0000DB9F /* AlertVisualProperty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB6FB22F47A9D0000DB9F /* AlertVisualProperty.swift */; };
-		30DEB70422F47A9D0000DB9F /* AlertActionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB6FC22F47A9D0000DB9F /* AlertActionsView.swift */; };
+		30DEB71522F48E440000DB9F /* AlertActionCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB70D22F48E440000DB9F /* AlertActionCollectionCell.swift */; };
+		30DEB71622F48E440000DB9F /* AlertMessageNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB70E22F48E440000DB9F /* AlertMessageNavigationController.swift */; };
+		30DEB71722F48E440000DB9F /* AlertMessageActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB70F22F48E440000DB9F /* AlertMessageActions.swift */; };
+		30DEB71822F48E440000DB9F /* AlertMessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB71022F48E440000DB9F /* AlertMessageViewController.swift */; };
+		30DEB71922F48E440000DB9F /* AlertActionCollectionViewFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB71122F48E440000DB9F /* AlertActionCollectionViewFlowLayout.swift */; };
+		30DEB71A22F48E440000DB9F /* AlertVisualProperty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB71222F48E440000DB9F /* AlertVisualProperty.swift */; };
+		30DEB71B22F48E440000DB9F /* AlertMessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB71322F48E440000DB9F /* AlertMessageView.swift */; };
+		30DEB71C22F48E440000DB9F /* AlertActionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DEB71422F48E440000DB9F /* AlertActionsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		30DEB6EA22F47A5D0000DB9F /* PodFrameworkDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PodFrameworkDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		30DEB6ED22F47A5D0000DB9F /* PodFrameworkDemo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PodFrameworkDemo.h; sourceTree = "<group>"; };
 		30DEB6EE22F47A5D0000DB9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		30DEB6F522F47A9C0000DB9F /* AlertMessageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertMessageView.swift; path = ../../../AlertProject/CCAlerts/CCAlerts/AlertClasses/AlertMessageView.swift; sourceTree = "<group>"; };
-		30DEB6F622F47A9D0000DB9F /* AlertMessageNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertMessageNavigationController.swift; path = ../../../AlertProject/CCAlerts/CCAlerts/AlertClasses/AlertMessageNavigationController.swift; sourceTree = "<group>"; };
-		30DEB6F722F47A9D0000DB9F /* AlertMessageActions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertMessageActions.swift; path = ../../../AlertProject/CCAlerts/CCAlerts/AlertClasses/AlertMessageActions.swift; sourceTree = "<group>"; };
-		30DEB6F822F47A9D0000DB9F /* AlertMessageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertMessageViewController.swift; path = ../../../AlertProject/CCAlerts/CCAlerts/AlertClasses/AlertMessageViewController.swift; sourceTree = "<group>"; };
-		30DEB6F922F47A9D0000DB9F /* AlertActionCollectionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertActionCollectionCell.swift; path = ../../../AlertProject/CCAlerts/CCAlerts/AlertClasses/AlertActionCollectionCell.swift; sourceTree = "<group>"; };
-		30DEB6FA22F47A9D0000DB9F /* AlertActionCollectionViewFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertActionCollectionViewFlowLayout.swift; path = ../../../AlertProject/CCAlerts/CCAlerts/AlertClasses/AlertActionCollectionViewFlowLayout.swift; sourceTree = "<group>"; };
-		30DEB6FB22F47A9D0000DB9F /* AlertVisualProperty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertVisualProperty.swift; path = ../../../AlertProject/CCAlerts/CCAlerts/AlertClasses/AlertVisualProperty.swift; sourceTree = "<group>"; };
-		30DEB6FC22F47A9D0000DB9F /* AlertActionsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertActionsView.swift; path = ../../../AlertProject/CCAlerts/CCAlerts/AlertClasses/AlertActionsView.swift; sourceTree = "<group>"; };
+		30DEB70D22F48E440000DB9F /* AlertActionCollectionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertActionCollectionCell.swift; path = ../../../PodFrameworkDemo/PodFrameworkDemo/PodFrameworkDemo/AlertActionCollectionCell.swift; sourceTree = "<group>"; };
+		30DEB70E22F48E440000DB9F /* AlertMessageNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertMessageNavigationController.swift; path = ../../../PodFrameworkDemo/PodFrameworkDemo/PodFrameworkDemo/AlertMessageNavigationController.swift; sourceTree = "<group>"; };
+		30DEB70F22F48E440000DB9F /* AlertMessageActions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertMessageActions.swift; path = ../../../PodFrameworkDemo/PodFrameworkDemo/PodFrameworkDemo/AlertMessageActions.swift; sourceTree = "<group>"; };
+		30DEB71022F48E440000DB9F /* AlertMessageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertMessageViewController.swift; path = ../../../PodFrameworkDemo/PodFrameworkDemo/PodFrameworkDemo/AlertMessageViewController.swift; sourceTree = "<group>"; };
+		30DEB71122F48E440000DB9F /* AlertActionCollectionViewFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertActionCollectionViewFlowLayout.swift; path = ../../../PodFrameworkDemo/PodFrameworkDemo/PodFrameworkDemo/AlertActionCollectionViewFlowLayout.swift; sourceTree = "<group>"; };
+		30DEB71222F48E440000DB9F /* AlertVisualProperty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertVisualProperty.swift; path = ../../../PodFrameworkDemo/PodFrameworkDemo/PodFrameworkDemo/AlertVisualProperty.swift; sourceTree = "<group>"; };
+		30DEB71322F48E440000DB9F /* AlertMessageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertMessageView.swift; path = ../../../PodFrameworkDemo/PodFrameworkDemo/PodFrameworkDemo/AlertMessageView.swift; sourceTree = "<group>"; };
+		30DEB71422F48E440000DB9F /* AlertActionsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AlertActionsView.swift; path = ../../../PodFrameworkDemo/PodFrameworkDemo/PodFrameworkDemo/AlertActionsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,14 +62,14 @@
 		30DEB6EC22F47A5D0000DB9F /* PodFrameworkDemo */ = {
 			isa = PBXGroup;
 			children = (
-				30DEB6F922F47A9D0000DB9F /* AlertActionCollectionCell.swift */,
-				30DEB6FA22F47A9D0000DB9F /* AlertActionCollectionViewFlowLayout.swift */,
-				30DEB6FC22F47A9D0000DB9F /* AlertActionsView.swift */,
-				30DEB6F722F47A9D0000DB9F /* AlertMessageActions.swift */,
-				30DEB6F622F47A9D0000DB9F /* AlertMessageNavigationController.swift */,
-				30DEB6F522F47A9C0000DB9F /* AlertMessageView.swift */,
-				30DEB6F822F47A9D0000DB9F /* AlertMessageViewController.swift */,
-				30DEB6FB22F47A9D0000DB9F /* AlertVisualProperty.swift */,
+				30DEB70D22F48E440000DB9F /* AlertActionCollectionCell.swift */,
+				30DEB71122F48E440000DB9F /* AlertActionCollectionViewFlowLayout.swift */,
+				30DEB71422F48E440000DB9F /* AlertActionsView.swift */,
+				30DEB70F22F48E440000DB9F /* AlertMessageActions.swift */,
+				30DEB70E22F48E440000DB9F /* AlertMessageNavigationController.swift */,
+				30DEB71322F48E440000DB9F /* AlertMessageView.swift */,
+				30DEB71022F48E440000DB9F /* AlertMessageViewController.swift */,
+				30DEB71222F48E440000DB9F /* AlertVisualProperty.swift */,
 				30DEB6ED22F47A5D0000DB9F /* PodFrameworkDemo.h */,
 				30DEB6EE22F47A5D0000DB9F /* Info.plist */,
 			);
@@ -155,14 +155,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				30DEB6FE22F47A9D0000DB9F /* AlertMessageNavigationController.swift in Sources */,
-				30DEB6FF22F47A9D0000DB9F /* AlertMessageActions.swift in Sources */,
-				30DEB70022F47A9D0000DB9F /* AlertMessageViewController.swift in Sources */,
-				30DEB70222F47A9D0000DB9F /* AlertActionCollectionViewFlowLayout.swift in Sources */,
-				30DEB6FD22F47A9D0000DB9F /* AlertMessageView.swift in Sources */,
-				30DEB70422F47A9D0000DB9F /* AlertActionsView.swift in Sources */,
-				30DEB70322F47A9D0000DB9F /* AlertVisualProperty.swift in Sources */,
-				30DEB70122F47A9D0000DB9F /* AlertActionCollectionCell.swift in Sources */,
+				30DEB71622F48E440000DB9F /* AlertMessageNavigationController.swift in Sources */,
+				30DEB71A22F48E440000DB9F /* AlertVisualProperty.swift in Sources */,
+				30DEB71722F48E440000DB9F /* AlertMessageActions.swift in Sources */,
+				30DEB71922F48E440000DB9F /* AlertActionCollectionViewFlowLayout.swift in Sources */,
+				30DEB71822F48E440000DB9F /* AlertMessageViewController.swift in Sources */,
+				30DEB71C22F48E440000DB9F /* AlertActionsView.swift in Sources */,
+				30DEB71B22F48E440000DB9F /* AlertMessageView.swift in Sources */,
+				30DEB71522F48E440000DB9F /* AlertActionCollectionCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
