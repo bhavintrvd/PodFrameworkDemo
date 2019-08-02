@@ -9,12 +9,13 @@
 Pod::Spec.new do |s|
 	s.name         = "PodFrameworkDemo"
 s.version      = "1.0.0"
+s.authors = "Bhavin Trivedi"
 s.summary      = "CCAlert pod."
 s.description  = "This is a CCAlert pod."
 s.homepage     = "http://raywenderlich.com"
 s.license      = "MIT"
 s.platform     = :ios, "12.0"
-s.source       = { :path => 'https://github.com/bhavintrvd/PodFrameworkDemo.git' }
+s.source       = { :git => 'https://github.com/bhavintrvd/PodFrameworkDemo.git' }
 s.source_files = "PodFrameworkDemo"
 s.swift_version = "4.2" 
 
