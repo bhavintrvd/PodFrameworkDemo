@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 	s.name         = "PodFrameworkDemo"
-s.version      = "5.4.0"
+s.version      = "5.5.0"
 s.authors = "Bhavin Trivedi"
 s.summary      = "CCAlert pod."
 s.description  = "This is a CCAlert pod."
@@ -16,7 +16,6 @@ s.homepage     = "http://raywenderlich.com"
 s.license      = "MIT"
 s.platform     = :ios, "12.0"
 s.source       = { :git => 'https://github.com/bhavintrvd/PodFrameworkDemo.git' }
-s.dependency 'OneDrop'
 s.source_files = "PodFrameworkDemo"
 s.swift_version = "4.2" 
 
